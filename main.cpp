@@ -11,4 +11,5 @@ main()
     cout<<"2A="<<2*a<<endl;
     cout<<"A-B="<<a-b<<endl;
     cout<<"A*B="<<a*b<<endl;
+    cout<<"A/B"<<a/b<<endl;
 }
